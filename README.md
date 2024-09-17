@@ -1,5 +1,5 @@
 # Fruit Classification Model - First Attempt
-
+**Dataset used:** `https://www.kaggle.com/datasets/karimabdulnabi/fruit-classification10-class`
 ## Model Attempt 1
 - **Model used:** `fruit_classification_model_attempt_1.h5`
 - **Results:** ![Output](output_attempt_1.png)
